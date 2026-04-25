@@ -22,32 +22,6 @@ Este projeto implementa um fluxo básico de análise de eventos de segurança, i
 
 ---
 
-## Estrutura do projeto
-
-siem/
-│
-├── main.py
-├── config.py
-│
-├── parser/
-│   └── log_parser.py
-│
-├── detection/
-│   └── detector.py
-│
-├── utils/
-│   └── storage.py
-│
-├── logs/
-│   └── sample.log
-│
-└── data/
-    ├── events.json
-    └── alerts.json
-
-
----
-
 ## Como funciona
 
 O sistema segue o fluxo abaixo:
