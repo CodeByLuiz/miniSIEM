@@ -1,0 +1,62 @@
+[
+    {
+        "timestamp": "Jul 10 10:00:00",
+        "ip": "192.168.0.10",
+        "raw": "Jul 10 10:00:00 server sshd[123]: Failed password from 192.168.0.10",
+        "event_type": "failed_login"
+    },
+    {
+        "timestamp": "Jul 10 10:00:01",
+        "ip": "192.168.0.10",
+        "raw": "Jul 10 10:00:01 server sshd[123]: Failed password from 192.168.0.10",
+        "event_type": "failed_login"
+    },
+    {
+        "timestamp": "Jul 10 10:00:02",
+        "ip": "192.168.0.10",
+        "raw": "Jul 10 10:00:02 server sshd[123]: Failed password from 192.168.0.10",
+        "event_type": "failed_login"
+    },
+    {
+        "timestamp": "Jul 10 10:00:03",
+        "ip": "192.168.0.10",
+        "raw": "Jul 10 10:00:03 server sshd[123]: Failed password from 192.168.0.10",
+        "event_type": "failed_login"
+    },
+    {
+        "timestamp": "Jul 10 10:00:04",
+        "ip": "192.168.0.10",
+        "raw": "Jul 10 10:00:04 server sshd[123]: Failed password from 192.168.0.10",
+        "event_type": "failed_login"
+    },
+    {
+        "timestamp": "Jul 10 10:00:05",
+        "ip": "192.168.0.10",
+        "raw": "Jul 10 10:00:05 server sshd[123]: Failed password from 192.168.0.10",
+        "event_type": "failed_login"
+    },
+    {
+        "timestamp": "Jul 10 10:00:06",
+        "ip": "192.168.0.10",
+        "raw": "Jul 10 10:00:06 server sshd[123]: Failed password from 192.168.0.10",
+        "event_type": "failed_login"
+    },
+    {
+        "timestamp": "Jul 10 10:00:07",
+        "ip": "192.168.0.10",
+        "raw": "Jul 10 10:00:07 server sshd[123]: Failed password from 192.168.0.10",
+        "event_type": "failed_login"
+    },
+    {
+        "timestamp": "Jul 10 10:01:00",
+        "ip": "192.168.0.10",
+        "raw": "Jul 10 10:01:00 server sshd[123]: Accepted password from 192.168.0.10",
+        "event_type": "successful_login"
+    },
+    {
+        "timestamp": "Jul 10 10:02:00",
+        "ip": "10.0.0.5",
+        "raw": "Jul 10 10:02:00 server sshd[123]: Accepted password from 10.0.0.5",
+        "event_type": "successful_login"
+    }
+]
